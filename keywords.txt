@@ -1,10 +1,10 @@
 #######################################
-# Syntax Coloring Map For Adafruit_NeoPixel
+# 
 #######################################
 # Class
 #######################################
 
-Adafruit_NeoPixel	KEYWORD1
+GetGoogleSheet	KEYWORD1
 
 #######################################
 # Methods and Functions
