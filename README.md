@@ -46,3 +46,5 @@ function separateTextInColumnD() {
   }
   columnDRange.setValues(data);
 }
+
+ ![Example_01.png](Example_01.png)
