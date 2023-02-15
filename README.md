@@ -47,4 +47,4 @@ function separateTextInColumnD() {
   columnDRange.setValues(data);
 }
 
- ![Example_01.png](Example_01.png)
+ ![Example_01.png](https://raw.githubusercontent.com/Thanakorn1998/GetGoogleSheet/main/Example_01.PNG)
