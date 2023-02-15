@@ -4,4 +4,7 @@
 --------------
 ### ตัวอย่างการส่ง
 วิธีใช้จะค่อนข้างง่าย
-* หากส่งข้อความใช่ฟังก์ชั้น Get(column,get parameter,value)
+* เริ่มต้นให้กำหนด Instance GetGoogleSheet Fn1;
+* กำหนด token ใช้ฟังชัน Fn1.begin(column,token);
+* หากส่งข้อความใช่ฟังก์ชั้น Fn1.Get(column,get parameter,value);
+* ขั้นตอนสุดท้ายในการส่งข้อมูลใช้ฟังก์ชัน Fn1.submit();
